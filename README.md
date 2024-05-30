@@ -1,1 +1,1 @@
-# Workshop-for-Genotype-Imputation
+# Workshop for Genotype Imputation
