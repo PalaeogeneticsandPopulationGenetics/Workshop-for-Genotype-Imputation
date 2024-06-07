@@ -32,7 +32,7 @@
 
 ## 21.06.2024 Friday
 
-**09:00-09:50**	Course 1 - Post-imputation processing  - (*Kıvılcım & Gulsah*) 
+**09:00-09:50**	Course 1 - Post-imputation processing  - (*Kıvılcım & Gulsah*) \
 **10:00-10:50**	Introduction to ancIBD	(*Kıvılcım & Gulsah*) \
 **11:00-11:50** Constructing the scripts and necessary files for ancIBD 	(*Kıvılcım & Gulsah*) \
 
