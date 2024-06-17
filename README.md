@@ -38,6 +38,6 @@
 
 **Lunch break**
 
-**13:00-13:50**	Running ancIBD	(*Kıvılcım & Gulsah*)
+**13:00-13:50**	Running ancIBD	(*Kıvılcım & Gulsah*) \
 **14:00-14:50** Interpretation of ancIBD results 	(*Kıvılcım & Gulsah*) \
 **15:00-16:00** Questions and Discussion 
