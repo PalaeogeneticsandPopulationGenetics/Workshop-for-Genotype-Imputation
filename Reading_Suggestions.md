@@ -8,3 +8,6 @@ Rubinacci, Simone, Diogo M. Ribeiro, Robin J. Hofmeister, and Olivier Delaneau. 
 
 
 Rubinacci, Simone, Robin J. Hofmeister, Bárbara Sousa da Mota, and Olivier Delaneau. 2023. “Imputation of Low-Coverage Sequencing Data from 150,119 UK Biobank Genomes.” Nature Genetics 55 (7): 1088–90. https://doi.org/10.1038/s41588-023-01438-3. 
+
+
+Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2023. All rights reserved. Draft of February 3, 2024. https://web.stanford.edu/~jurafsky/slp3/A.pdf
